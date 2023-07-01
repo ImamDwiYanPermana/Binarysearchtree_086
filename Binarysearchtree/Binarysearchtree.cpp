@@ -54,4 +54,4 @@ public:
 		currentNode = ROOT;
 		parent = NULL;
 	}
-};
+}
