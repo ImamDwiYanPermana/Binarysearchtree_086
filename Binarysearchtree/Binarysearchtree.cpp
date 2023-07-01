@@ -61,4 +61,6 @@ public:
 				currentNode = currentNode->rightchild;
 		}
 	}
+	void inorder(Node* ptr) {
+	}
 };
